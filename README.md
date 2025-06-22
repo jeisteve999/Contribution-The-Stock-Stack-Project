@@ -20,4 +20,4 @@ As a Junior Data Analyst, I was in charge of the **Exploratory Data Analysis (ED
 - pandas, numpy
 - seaborn, matplotlib
 
-📁 See the full notebook in [`eda_stock_data_jason.ipynb`](./eda_stock_data_jason.ipynb)
+📁 See the full notebook in [`eda_stock_data_jason.ipynb`](https://github.com/jeisteve999/Contribution-The-Stock-Stack-Project/blob/main/EDA_The_Stock_Stack.ipynb)
